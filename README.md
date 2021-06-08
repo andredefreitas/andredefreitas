@@ -1,7 +1,7 @@
-### Hello 👋
+### HI 👋
 
 - 🌱 I’m currently learning CSS, JAVASCRIPT, NODE, SQL, REACT, REACT NATIVE...
-- 🤔 I’m looking for help with REACT NATIVE, NEXT.JS, TYPESCRIPT, MONGODB...
+- 🤔 I’m looking for help with NEXT.JS, TYPESCRIPT, MONGODB...
 - 📫 How to reach me: deco99.af@gmail.com
 
 
