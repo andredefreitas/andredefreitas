@@ -1,7 +1,7 @@
 ### HELLO WORLD 👋
 
-- 🌱 I’m just a newbie currently learning JAVASCRIPT | NODE | SQLITE | REACT...
-- 🤔 I’m looking for help with TYPESCRIPT | NEXTJS..
+- 🌱 I’m just a newbie currently learning JAVASCRIPT | NODE | SQLITE | REACT | NEXTJS | TYPESCRIPT...
+- 🤔 I’m looking for help with
 - 📫 How to reach me: deco99.af@gmail.com | linkedin
 
 
