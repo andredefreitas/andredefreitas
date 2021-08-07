@@ -1,6 +1,6 @@
 ### HELLO WORLD 👋
 
-- 🌱 I’m just a newbie currently learning JAVASCRIPT | NODE | SQLITE | REACT | NEXTJS...
+- 🌱 I’m just a rook currently learning JAVASCRIPT | NODE | SQLITE | REACT | NEXTJS...
 - 🤔 I’m looking for help with CMS | TYPESCRIPT
 - 📫 How to reach me: deco99.af@gmail.com | linkedin
 
